@@ -347,15 +347,15 @@ a:hover {
 }
 
 .detail.office figure {
-  background-image: url(../img/office.jpg);
+  background-image: url(../img/img001.jpg);
 }
 
 .detail.manage figure {
-  background-image: url(../img/manage.jpg);
+  background-image: url(../img/img002.jpg);
 }
 
 .detail.research figure {
-  background-image: url(../img/research.jpg);
+  background-image: url(../img/img003.jpg);
 }
 
 @media (min-width:900px) {
